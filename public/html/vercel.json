@@ -1,0 +1,10 @@
+{
+    "rewrites": [
+      { "source": "/", "destination": "/public/html/index.html" },
+      { "source": "/turmas", "destination": "/public/html/turmas.html" },
+      { "source": "/turmaPage", "destination": "/public/html/turmaPage.html" },
+      { "source": "/positivo", "destination": "/public/html/positivo.html" },
+      { "source": "/negativo", "destination": "/public/html/negativo.html" }
+    ]
+  }
+  
